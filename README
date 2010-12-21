@@ -1,0 +1,5 @@
+A simple command line passenger app, to manage passenger apps.
+
+Why?
+
+Because the passenger pref panel doesn't work in my machine (and i'm too lazy to configure correctly) and i like command line
